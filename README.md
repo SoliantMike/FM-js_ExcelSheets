@@ -17,6 +17,7 @@ https://github.com/SheetJS/js-xlsx
 
 Please view that for licensing information regard uses for that piece.
 
+Now updated to support FileMaker 16.
 
 Read more here:
 http://www.soliantconsulting.com/blog/2016...
