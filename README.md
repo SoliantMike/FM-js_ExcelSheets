@@ -20,4 +20,4 @@ Please view that for licensing information regard uses for that piece.
 Now updated to support FileMaker 16.
 
 Read more here:
-http://www.soliantconsulting.com/blog/2016...
+http://www.soliantconsulting.com/blog/2017/06/filemaker-16-javascript-changes
